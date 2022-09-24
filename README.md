@@ -1,5 +1,8 @@
 # ![travelog](https://user-images.githubusercontent.com/80265536/181826144-fcd582ee-f000-4f4d-a55c-6fc5637d58b6.jpg)
 
+> DEMO VIDEO  
+> 🎬 https://youtu.be/Zqd3_FhrXq4
+
 ## URL
 
 http://kdt-sw2-busan-team01.elicecoding.com/
