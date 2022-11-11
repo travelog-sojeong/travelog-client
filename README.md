@@ -1,16 +1,21 @@
 # ![travelog](https://user-images.githubusercontent.com/80265536/181826144-fcd582ee-f000-4f4d-a55c-6fc5637d58b6.jpg)
 
+>프로젝트 소개 페이지  
+>https://elice.notion.site/1-03eddb1004e34708a338bccb51549d07  
 > DEMO VIDEO  
 > 🎬 https://youtu.be/Zqd3_FhrXq4
+
 
 ## URL
 
 http://kdt-sw2-busan-team01.elicecoding.com/
+현재는 vm의 비용 문제로 연결이 되지 않습니다🥲 상단의 유튜브 영상을 참고해 주세요🫶🏻
 
 ## 서비스 설명
 
 여행 중 관광지에서의 추억을 기록하는 서비스입니다.  
 가고싶은 장소나 맛집을 메모 해두고 방문 순서대로 모아 기록을 남길 수 있습니다.
+
 
 ## 기획 의도 및 목적
 
