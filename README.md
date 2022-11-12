@@ -8,7 +8,7 @@
 
 ## URL
 
-http://kdt-sw2-busan-team01.elicecoding.com/
+http://kdt-sw2-busan-team01.elicecoding.com/  
 현재는 vm의 비용 문제로 연결이 되지 않습니다🥲 상단의 유튜브 영상을 참고해 주세요🫶🏻
 
 ## 서비스 설명
